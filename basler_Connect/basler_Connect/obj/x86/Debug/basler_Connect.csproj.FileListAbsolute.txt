@@ -1,0 +1,6 @@
+C:\Users\Taekwon\Documents\GitHub\BaslerProject_wallabi\basler_Connect\basler_Connect\bin\Debug\basler_Connect.exe
+C:\Users\Taekwon\Documents\GitHub\BaslerProject_wallabi\basler_Connect\basler_Connect\bin\Debug\basler_Connect.pdb
+C:\Users\Taekwon\Documents\GitHub\BaslerProject_wallabi\basler_Connect\basler_Connect\obj\x86\Debug\basler_Connect.Properties.Resources.resources
+C:\Users\Taekwon\Documents\GitHub\BaslerProject_wallabi\basler_Connect\basler_Connect\obj\x86\Debug\basler_Connect.csproj.GenerateResource.Cache
+C:\Users\Taekwon\Documents\GitHub\BaslerProject_wallabi\basler_Connect\basler_Connect\obj\x86\Debug\basler_Connect.exe
+C:\Users\Taekwon\Documents\GitHub\BaslerProject_wallabi\basler_Connect\basler_Connect\obj\x86\Debug\basler_Connect.pdb
